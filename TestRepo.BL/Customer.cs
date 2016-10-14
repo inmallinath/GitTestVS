@@ -8,6 +8,10 @@ namespace TestRepo.BL
 {
     public class Customer
     {
+        public Customer()
+        {
+
+        }
         private string _lastName;
 
         public string LastName
